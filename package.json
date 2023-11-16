@@ -1,0 +1,19 @@
+{
+  "name": "json-schema-to-mermaidjs",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "keywords": [],
+  "author": "Teemu Kurki",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@apidevtools/json-schema-ref-parser": "^11.1.0"
+  }
+}
